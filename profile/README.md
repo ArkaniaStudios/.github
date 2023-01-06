@@ -1,12 +1,11 @@
-## Hi there 👋
+![Banner](https://cdn.discordapp.com/attachments/977968129143607367/979215865776050216/banner.png)
 
-<!--
+L'organisation ArkaniaStudios est une organisation chargé du serveur du même nom. Ce serveur est un serveur PvP Faction avec des idées originales et des concepetes inédits. 
 
-**Here are some ideas to get you started:**
+## ✨ Accès publique 
+### [ARKANIA](https://arkaniastudios.org)
+Site officiel d'Arkania accécible à tous.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### [ARKANIA-DISCORD] (https://arkaniastudios.org/discord)
+Le discord qui vous permettra de rester informer de toutes les nouvelles actualitées présente sur le serveur.
+
