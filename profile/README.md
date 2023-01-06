@@ -6,6 +6,6 @@ L'organisation ArkaniaStudios est une organisation chargé du serveur du même n
 ### [ARKANIA](https://arkaniastudios.org)
 Site officiel d'Arkania accécible à tous.
 
-### [ARKANIA-DISCORD] (https://arkaniastudios.org/discord)
+### [ARKANIA-DISCORD](https://arkaniastudios.org/discord)
 Le discord qui vous permettra de rester informer de toutes les nouvelles actualitées présente sur le serveur.
 
