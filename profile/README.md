@@ -1,11 +1,11 @@
 ![Banner](https://cdn.discordapp.com/attachments/977968129143607367/979215865776050216/banner.png)
 
-L'organisation ArkaniaStudios est une organisation chargé du serveur du même nom. Ce serveur est un serveur PvP Faction avec des idées originales et des concepetes inédits. 
+The ArkaniaStudios organization is an organization responsible for the server of the same name. This server is a PvP Faction server with original ideas and new designs.
 
-## ✨ Accès publique 
-### [ARKANIA](https://arkaniastudios.org)
-Site officiel d'Arkania accécible à tous.
+## ✨ Public access
+### [ArkaniaStudios](https://arkaniastudios.org)
+Arkania’s official website accessible to all.
 
-### [ARKANIA-DISCORD](https://arkaniastudios.org/discord)
-Le discord qui vous permettra de rester informer de toutes les nouvelles actualitées présente sur le serveur.
+### [DISCORD](https://arkaniastudios.org/discord)
+The discord that will allow you to stay informed of all the news present on the server.
 
