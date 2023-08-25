@@ -6,6 +6,6 @@ The ArkaniaStudios organization is an organization responsible for the server of
 ### [ArkaniaStudios](https://arkaniastudios.com)
 Arkania’s official website accessible to all.
 
-### [Discord](https://arkaniastudios.org/discord)
+### [Discord](https://arkaniastudios.com/discord)
 The discord that will allow you to stay informed of all the news present on the server.
 
