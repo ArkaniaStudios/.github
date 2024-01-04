@@ -37,6 +37,6 @@ Join our vibrant Discord community to connect with fellow players, engage in dis
 Follow us on social media to stay updated on the latest news, events, and community highlights:
 
 - Twitter: [@ArkaniaStudios](https://twitter.com/ArkaniaStudios)
-- Discord: [ArkaniaStudios]([https://www.instagram.com/arkaniaserver/](https://discord.gg/qv3xyPcyx3))
+- Discord: [ArkaniaStudios](https://discord.gg/qv3xyPcyx3)
 
 Thank you for choosing ArkaniaStudios. Prepare for an unparalleled PvP Faction experience! 🏹🛡️
