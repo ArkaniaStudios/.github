@@ -1,4 +1,6 @@
-![ArkaniaStudios Logo](https://cdn.discordapp.com/attachments/1080988528818798693/1224467994483359744/arkaniatypo.png?ex=661d99af&is=660b24af&hm=b91c1124aba6a13e2625012b96c250163649260f81b4e5a17a52e00c8895a284&)
+![ArkaniaStudios Logo](https://cdn.discordapp.com/attachments/1058448782481690714/1233888565218246776/arkaniatypo.png?ex=662ebbc6&is=662d6a46&hm=49b5e58f25d0508348870f67d3659fb4dde83669fd54d4ea5974af24d3df0d2b&)
+> [!IMPORTANT]
+> the team moves faster during these holidays.
 # ArkaniaStudios
 
 Welcome to ArkaniaStudios! Discover our tailored Minecraft services:
