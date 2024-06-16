@@ -26,9 +26,6 @@ Our Services 🌊
 📜 How to order ?
 </h2>
 
-<p align="center">
-Welcome to the ruthless, thrilling, treasure-filled world of Arkazia ! Check out our <a href="https://discord.gg/eF79vESm5S">New Pirate's Guide</a> to familiarize yourself with the rules of the game and dive headfirst into the action.
-</p>
 &nbsp
 <p align="center">
 1. <strong>Open a Ticket<strong>: Submit your request in #📨│ticket.
