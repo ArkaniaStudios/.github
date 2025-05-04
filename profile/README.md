@@ -3,8 +3,7 @@
 
 ![ArkaniaStudios](../banner.png)  
 ## Who Are We 🙄   
-The development team is made up of around 5 people, all based in France.<br/>  
-ArkaniaStudios allows us to broaden our experience while building something remarkable.  
+The development team is made up of around 5 people, all based in France.
 
 ## What We Do 🗃️  
 We aim to launch many open-source projects to make a difference  
