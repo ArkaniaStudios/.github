@@ -1,16 +1,13 @@
 > [!TIP]  
-> Nous recherchons actuellement des développeurs.  
+> We are currently looking for developers.  
 
 ![ArkaniaStudios](../banner.png)  
-## Qui sommes-nous 🙄  
-Nous sommes un serveur Minecraft: Bedrock Edition avec plus de 1 000 joueurs enregistrés !<br/>  
-L'équipe de développement est composée d'environ 5 personnes, toutes basées en France.<br/>  
-ArkaniaStudios nous permet d'élargir notre expérience tout en construisant quelque chose de remarquable.  
+## Who Are We 🙄   
+The development team is made up of around 5 people, all based in France.<br/>  
+ArkaniaStudios allows us to broaden our experience while building something remarkable.  
 
-## Ce que nous faisons 🗃️  
+## What We Do 🗃️  
+We aim to launch many open-source projects to make a difference  
 
-- Nous essayons d'ouvrir de nombreux projets en open source pour faire une différence  
-- Utilisation de PHP, JavaScript, TypeScript pour construire de grands projets  
-
-## Postuler 📜  
-Vous êtes intéressé à travailler chez ArkaniaStudios ? Consultez [ici](https://arkaniastudios.com/applyfor) pour savoir comment postuler à un emploi !  
+## Apply 📜  
+Interested in working with ArkaniaStudios? Check [here](https://arkaniastudios.com/applyfor) to see how to apply for a position!
